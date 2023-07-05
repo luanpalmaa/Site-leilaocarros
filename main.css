@@ -7,8 +7,7 @@
 header {
     background-color: rgb(80, 183, 231);
     padding: 15px 0;
-    color: aliceblue;
-    
+    color: aliceblue;  
 }
 
 header h1{
@@ -176,7 +175,6 @@ input:focus{
     margin-right: 15px;
 
 }
-
 
 footer {
     font-family: 'Rowdies', cursive;
